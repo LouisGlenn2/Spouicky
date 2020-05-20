@@ -1,2 +1,2 @@
 # Spouicky
-Creation of a web application allowing students to register for a project and / or propose project subjects.
+This project cannot work because it needs the database of the IUT of Lannion.
